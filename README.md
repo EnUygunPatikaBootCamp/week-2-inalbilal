@@ -8,7 +8,7 @@ Camel Case: veriGirisi olarak yazılır.
 
 LINUX COMMANDS
 
-tail: Metin dosyasındaki son birkaç satırı görmek için kullanılır.
+<b>tail</b>: Metin dosyasındaki son birkaç satırı görmek için kullanılır.
 cat: Basit metin dosyalarının içeriğini görmek için kullanılır.
 sudo: İşlemleri yönetici yetkisiyle yapmak için kullanılan konuttur.
 touch: Dosya oluşturmak için kullanılan komut.
