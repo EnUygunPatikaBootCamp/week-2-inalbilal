@@ -2,9 +2,9 @@
 
 Programlamada değişken, sınıf ve fonksiyon isimlendirmelerini daha okunulabilir seviyeye indirebilmek için bazı isimlendirme biçimleri ortaya çıkmıştır. Popüler olarak kullanılan Pascal Case ve Camel Case'den kısaca bahsedelim. Pascal Case'de kelimelerin baş harfleri büyük yazılırken, Camel Case'de ise ilk kelimenin baş harfi her zaman küçük yazılır. 
 
-<b>Örnek:</b>
-Pascal Case: VeriGirisi <br>
-Camel Case: veriGirisi olarak yazılır.<br>
+<b>Örnek:</b><br/>
+<b>Pascal Case:</b> VeriGirisi <br>
+<b>Camel Case:</b> veriGirisi olarak yazılır.<br>
 
 ## LINUX COMMANDS
 
